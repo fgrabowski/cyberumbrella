@@ -6,9 +6,7 @@ Cyber Umbrella great for your party!
 [Video 2](https://github.com/fgrabowski/cyberumbrella/assets/72566779/4e4333f0-0db5-4a62-950f-924895a59df1)
 ![Photo](https://github.com/fgrabowski/cyberumbrella/assets/72566779/c8247152-24db-4af8-a1d7-1c1c65565b58)
 
-### Presentations, news.
-Lights Festival (Festiwal Światła May 2023) - Gdańsk, Poland
----
+### Lights Festival (Festiwal Światła May 2023) - Gdańsk, Poland
 [Trójmiasto TV News](https://tv.trojmiasto.pl/Tlumy-ludzi-w-Hevelianum-Festiwal-Swiatla-Gdansk-14-05-2023-video-81699.html)
 [HackerSpace Trójmiasto YouTube](https://www.youtube.com/watch?v=7nTFkTOR2SE)
 
