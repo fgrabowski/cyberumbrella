@@ -12,6 +12,7 @@ Lights Festival (Festiwal Światła May 2023) - Gdańsk, Poland
 [HackerSpace Trójmiasto YouTube](https://www.youtube.com/watch?v=7nTFkTOR2SE)
 
 ### Used Tools - Make your own! 
+```
 Microcontroller (Used Raspberry Pi Pico W with Circuit Python)
 4,8m Led Strip (Used WS2812B Addressable RGB)
 Cable to Microcontroller (Raspberry Pi Pico W port is Micro USB)
@@ -22,6 +23,7 @@ Umbrella **Should be one part only and not foldable, only closing to inside to a
 Powerbank
 A little bit of programming knowledge (Used Python) 
 And soldering tools! (Soldering Wire, Soldering Machine)
+```
 
 > Remember that items provided were used for my umbrella, you can make it completely different :) 
 
