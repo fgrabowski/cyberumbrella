@@ -28,3 +28,5 @@ And soldering tools! (Soldering Wire, Soldering Machine)
 
 ### Example code, effects.
 TBA
+
+> Credits: Me, mw, HackerSpace Trójmiasto
