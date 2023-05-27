@@ -27,6 +27,6 @@ And soldering tools! (Soldering Wire, Soldering Machine)
 > Remember that items provided were used for my umbrella, you can make it completely different :) 
 
 ### Example code, effects.
-TBA
+[Code Examples](code_examples/animations_preview.md)
 
 > Credits: Me, mw, HackerSpace Trójmiasto
